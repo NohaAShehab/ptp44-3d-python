@@ -12,3 +12,7 @@ for char in 'noha':
     if char =='o' or char =='e' or char =='i' or char =='a' or char =='u':
         no_of_vowels+=1
 print(no_of_vowels)
+
+
+
+""" write a program that removes vowels from any given string  """

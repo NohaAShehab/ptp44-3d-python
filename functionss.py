@@ -173,12 +173,12 @@ sumnumbers(6,6)
 
 
 
-def cal_circle_area(dim):
-    area = 3.14 * (dim ** 2)
-    return  area
-
-
-print(cal_circle_area(7))
+# def cal_circle_area(dim):
+#     area = 3.14 * (dim ** 2)
+#     return  area
+#
+#
+# print(cal_circle_area(7))
 
 
 
